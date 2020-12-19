@@ -106,6 +106,9 @@ export default function App() {
           );
         })}
       </div>
+      <footer>
+        <h4>made by Monojit Chakraborty</h4>
+      </footer>
     </div>
   );
 }
